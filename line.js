@@ -858,7 +858,7 @@ data = [{'year': 1990, 'valueTopic 38': 4}, {'year': 1991, 'valueTopic 38': 3}, 
             data[i].year = new Date(data[i].year, 6, 31)
         }
 
-       
+
 
         // 	value += Math.round((Math.random() < 0.5 ? 1 : -1) * Math.random() * 30 + i / 5);
         // 	var dataItem = { date: new Date(2018, 0, i) };
