@@ -163,6 +163,14 @@ data = [{'year': '2007-03', 'valueRetirement savings': 1}, {'year': '2007-08', '
 
         series.minBulletDistance = 2;
         var image = chart.plotContainer.createChild(am4core.Image);
+        image.href = "asset/Global.png";
+        image.width = 900;
+        image.height = 425;
+        image.x = -340;
+        image.y = 10;
+
+        series.minBulletDistance = 2;
+        var image = chart.plotContainer.createChild(am4core.Image);
         image.href = "asset/fed-election-2019.png";
         image.width = 900;
         image.height = 425;
