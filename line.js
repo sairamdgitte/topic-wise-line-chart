@@ -166,7 +166,7 @@ data = [{'year': '2007-03', 'valueRetirement savings': 1}, {'year': '2007-08', '
         image.href = "asset/Global.png";
         image.width = 900;
         image.height = 425;
-        image.x = -340;
+        image.x = -320;
         image.y = 10;
 
         series.minBulletDistance = 2;
@@ -174,7 +174,7 @@ data = [{'year': '2007-03', 'valueRetirement savings': 1}, {'year': '2007-08', '
         image.href = "asset/fed-election-2019.png";
         image.width = 900;
         image.height = 425;
-        image.x = 675;
+        image.x = 685;
         image.y = 10;
 
         series.minBulletDistance = 2;
@@ -182,7 +182,7 @@ data = [{'year': '2007-03', 'valueRetirement savings': 1}, {'year': '2007-08', '
         image.href = "asset/fed-election-2016.png";
         image.width = 900;
         image.height = 425;
-        image.x = 460;
+        image.x = 470;
         image.y = 10;
 
         return series;
