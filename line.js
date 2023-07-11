@@ -23,9 +23,8 @@ am4core.ready(function () {
     'Propery sale and investment in retirement', 'Superannuation',
     'First homebuyers', 'Life insurance', 'Start ups', 'Retirement',
     'Lost superannuation accounts', 'Property Market (Aggregate)',
-    'Banking royal commission', 'Financial scams',
-    'Executive remuneration', 'Retirement savings',
-    'Retirement (Aggregate)']
+    'Retirement (Aggregate)', 'Banking royal commission',
+    'Financial scams', 'Executive remuneration', 'Retirement savings']
 
     // var countries = ['Executive remuneration', 'Superannuation',
     // 'Social security and government benefits',
@@ -152,6 +151,8 @@ data = [{'year': '2007-03', 'valueExecutive remuneration': 2}, {'year': '2007-07
 
 if (name === "Retirement savings")
 data = [{'year': '2007-03', 'valueRetirement savings': 1}, {'year': '2007-08', 'valueRetirement savings': 1}, {'year': '2008-05', 'valueRetirement savings': 1}, {'year': '2010-08', 'valueRetirement savings': 1}, {'year': '2011-01', 'valueRetirement savings': 1}, {'year': '2011-07', 'valueRetirement savings': 1}, {'year': '2012-05', 'valueRetirement savings': 1}, {'year': '2012-09', 'valueRetirement savings': 1}, {'year': '2012-12', 'valueRetirement savings': 1}, {'year': '2014-08', 'valueRetirement savings': 2}, {'year': '2015-01', 'valueRetirement savings': 1}, {'year': '2015-05', 'valueRetirement savings': 1}, {'year': '2015-07', 'valueRetirement savings': 1}, {'year': '2016-01', 'valueRetirement savings': 1}, {'year': '2016-05', 'valueRetirement savings': 1}, {'year': '2017-05', 'valueRetirement savings': 1}, {'year': '2017-09', 'valueRetirement savings': 1}, {'year': '2018-02', 'valueRetirement savings': 1}, {'year': '2019-02', 'valueRetirement savings': 1}, {'year': '2019-03', 'valueRetirement savings': 1}, {'year': '2019-04', 'valueRetirement savings': 1}, {'year': '2019-09', 'valueRetirement savings': 2}, {'year': '2020-03', 'valueRetirement savings': 1}, {'year': '2022-02', 'valueRetirement savings': 1}]; 
+
+
 
 
 
