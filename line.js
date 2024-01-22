@@ -141,21 +141,21 @@ data = [{'year': '2012-01', 'valueWorkplace gender equality': 0}, {'year': '2012
         // image.x = -320;
         // image.y = 10;
 
-        series.minBulletDistance = 2;
-        var image = chart.plotContainer.createChild(am4core.Image);
-        image.href = "asset/fed-election-2019.png";
-        image.width = 900;
-        image.height = 425;
-        image.x = 230; //was 685
-        image.y = 10;
+        // series.minBulletDistance = 2;
+        // var image = chart.plotContainer.createChild(am4core.Image);
+        // image.href = "asset/fed-election-2019.png";
+        // image.width = 900;
+        // image.height = 425;
+        // image.x = 230; //was 685
+        // image.y = 10;
 
-        series.minBulletDistance = 2;
-        var image = chart.plotContainer.createChild(am4core.Image);
-        image.href = "asset/fed-election-2016.png";
-        image.width = 900;
-        image.height = 425;
-        image.x = 0; //was 370
-        image.y = 10;
+        // series.minBulletDistance = 2;
+        // var image = chart.plotContainer.createChild(am4core.Image);
+        // image.href = "asset/fed-election-2016.png";
+        // image.width = 900;
+        // image.height = 425;
+        // image.x = 0; //was 370
+        // image.y = 10;
 
         return series;
     }
