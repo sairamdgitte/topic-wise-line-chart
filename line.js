@@ -154,7 +154,7 @@ data = [{'year': '2012-01', 'valueWorkplace gender equality': 0}, {'year': '2012
         image.href = "asset/fed-election-2016.png";
         image.width = 900;
         image.height = 425;
-        image.x = 1; //was 370
+        image.x = 370; //was 370
         image.y = 10;
 
         return series;
